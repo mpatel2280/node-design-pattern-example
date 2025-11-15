@@ -6,3 +6,27 @@
 [2025-11-15T09:44:09.690Z] ERROR: Service B error
 [2025-11-15T09:44:57.388Z] Service A started
 [2025-11-15T09:44:57.392Z] Service B started
+[2025-11-15T11:30:40.954Z] [INFO] Log level set to DEBUG
+[2025-11-15T11:30:40.955Z] [INFO] Service A started
+[2025-11-15T11:30:40.955Z] [DEBUG] Service A: Processing data...
+[2025-11-15T11:30:40.955Z] [INFO] Service A: Data processed successfully - 100 records processed
+[2025-11-15T11:30:40.955Z] [INFO] Service B started
+[2025-11-15T11:30:40.956Z] [WARN] Service B: Low memory warning
+[2025-11-15T11:30:40.956Z] [ERROR] Service B: Operation failed - Database connection timeout
+[2025-11-15T11:30:40.956Z] [INFO] Service B completed
+[2025-11-15T11:30:40.956Z] [INFO] Application is running smoothly
+[2025-11-15T11:30:40.957Z] [WARN] This is a warning message
+[2025-11-15T11:30:40.957Z] [DEBUG] Debug information: variable x = 42
+[2025-11-15T11:30:40.957Z] [ERROR] This is an error message
+[2025-11-15T11:32:22.926Z] [INFO] Message from first import
+[2025-11-15T11:32:22.928Z] [INFO] Message from function
+[2025-11-15T11:32:22.929Z] [WARN] Warning from another function
+[2025-11-15T11:32:22.931Z] [INFO] INFO level message
+[2025-11-15T11:32:22.931Z] [WARN] WARN level message
+[2025-11-15T11:32:22.931Z] [ERROR] ERROR level message
+[2025-11-15T11:33:03.177Z] [INFO] Message from first import
+[2025-11-15T11:33:03.178Z] [INFO] Message from function
+[2025-11-15T11:33:03.179Z] [WARN] Warning from another function
+[2025-11-15T11:33:03.180Z] [INFO] INFO level message
+[2025-11-15T11:33:03.180Z] [WARN] WARN level message
+[2025-11-15T11:33:03.180Z] [ERROR] ERROR level message

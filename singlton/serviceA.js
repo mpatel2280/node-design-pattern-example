@@ -1,5 +1,5 @@
-const logger = require("./logger");
+import logger from "./logger.js";
 
-function serviceA() {
+export default function serviceA() {
     logger.log("Service A started");
 }

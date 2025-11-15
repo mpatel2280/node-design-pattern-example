@@ -1,0 +1,17 @@
+{
+  "name": "node-design-pattern-example",
+  "version": "1.0.0",
+  "description": "Node.js Design Pattern Examples",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design-patterns",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}
+

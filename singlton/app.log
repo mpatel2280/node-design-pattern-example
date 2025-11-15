@@ -1,0 +1,4 @@
+[2025-11-15T09:42:09.164Z] Service A started
+[2025-11-15T09:42:09.170Z] ERROR: Service B encountered an error
+[2025-11-15T09:42:14.900Z] Service A started
+[2025-11-15T09:42:14.906Z] ERROR: Service B encountered an error

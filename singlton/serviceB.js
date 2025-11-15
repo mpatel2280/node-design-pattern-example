@@ -1,5 +1,5 @@
-const logger = require("./logger");
+import logger from "./logger.js";
 
-function serviceB() {
+export default function serviceB() {
     logger.error("Service B encountered an error");
 }

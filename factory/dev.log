@@ -1,0 +1,19 @@
+=== Log started at 2025-11-15T09:51:03.236Z ===
+[2025-11-15T09:51:03.236Z] [INFO] [FileLogger] Development environment log
+[2025-11-15T09:51:03.238Z] [INFO] [FileLogger] Application starting in development mode
+[2025-11-15T09:51:03.238Z] [INFO] [FileLogger] Processing data: user-data-123
+[2025-11-15T09:51:03.238Z] [INFO] [FileLogger] Processing data: order-456
+[2025-11-15T09:51:03.238Z] [ERROR] [FileLogger] Application error: Connection timeout
+[2025-11-15T09:51:03.238Z] [INFO] [FileLogger] Application shutting down
+[2025-11-15T09:51:19.007Z] [INFO] [FileLogger] Development environment log
+[2025-11-15T09:51:19.008Z] [INFO] [FileLogger] Application starting in development mode
+[2025-11-15T09:51:19.009Z] [INFO] [FileLogger] Processing data: user-data-123
+[2025-11-15T09:51:19.009Z] [INFO] [FileLogger] Processing data: order-456
+[2025-11-15T09:51:19.009Z] [ERROR] [FileLogger] Application error: Connection timeout
+[2025-11-15T09:51:19.009Z] [INFO] [FileLogger] Application shutting down
+[2025-11-15T09:51:56.769Z] [INFO] [FileLogger] Development environment log
+[2025-11-15T09:51:56.770Z] [INFO] [FileLogger] Application starting in development mode
+[2025-11-15T09:51:56.770Z] [INFO] [FileLogger] Processing data: user-data-123
+[2025-11-15T09:51:56.770Z] [INFO] [FileLogger] Processing data: order-456
+[2025-11-15T09:51:56.770Z] [ERROR] [FileLogger] Application error: Connection timeout
+[2025-11-15T09:51:56.770Z] [INFO] [FileLogger] Application shutting down

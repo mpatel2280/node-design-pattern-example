@@ -1,0 +1,7 @@
+=== Log started at 2025-11-15T09:51:03.235Z ===
+[2025-11-15T09:51:03.235Z] [INFO] [FileLogger] This message goes to console, file, AND database!
+[2025-11-15T09:51:03.236Z] [WARN] [FileLogger] This warning goes everywhere!
+[2025-11-15T09:51:19.006Z] [INFO] [FileLogger] This message goes to console, file, AND database!
+[2025-11-15T09:51:19.007Z] [WARN] [FileLogger] This warning goes everywhere!
+[2025-11-15T09:51:56.768Z] [INFO] [FileLogger] This message goes to console, file, AND database!
+[2025-11-15T09:51:56.768Z] [WARN] [FileLogger] This warning goes everywhere!

@@ -1,0 +1,10 @@
+=== Log started at 2025-11-15T09:51:03.233Z ===
+[2025-11-15T09:51:03.234Z] [INFO] [FileLogger] This message is written to app.log
+[2025-11-15T09:51:03.234Z] [WARN] [FileLogger] This warning is written to app.log
+[2025-11-15T09:51:03.234Z] [ERROR] [FileLogger] This error is written to app.log
+[2025-11-15T09:51:19.004Z] [INFO] [FileLogger] This message is written to app.log
+[2025-11-15T09:51:19.004Z] [WARN] [FileLogger] This warning is written to app.log
+[2025-11-15T09:51:19.005Z] [ERROR] [FileLogger] This error is written to app.log
+[2025-11-15T09:51:56.765Z] [INFO] [FileLogger] This message is written to app.log
+[2025-11-15T09:51:56.766Z] [WARN] [FileLogger] This warning is written to app.log
+[2025-11-15T09:51:56.766Z] [ERROR] [FileLogger] This error is written to app.log

@@ -1,0 +1,9 @@
+A logging utility should:
+
+Have one shared instance across the application
+
+Maintain consistent formatting
+
+Write to the same output stream / file
+
+Avoid creating multiple file handles

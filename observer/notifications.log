@@ -1,0 +1,21 @@
+=== Notification Log Started at 2025-11-15T11:15:38.371Z ===
+[2025-11-15T11:15:38.373Z] [MEDIUM] [UserNotificationCenter] Event: user.registered Data: {"userId":"user123","username":"john_doe","email":"john@example.com","priority":"medium","eventId":"evt_1763205338372_e0ascc9mr"}
+[2025-11-15T11:15:38.374Z] [LOW] [UserNotificationCenter] Event: user.login Data: {"userId":"user123","location":"New York, USA","device":"iPhone 14","ipAddress":"192.168.1.1","priority":"low","eventId":"evt_1763205338374_fm33sks7l"}
+[2025-11-15T11:15:38.376Z] [HIGH] [UserNotificationCenter] Event: user.password.changed Data: {"userId":"user123","priority":"high","eventId":"evt_1763205338375_u9m2afev0"}
+[2025-11-15T11:15:38.377Z] [MEDIUM] [OrderNotificationCenter] Event: order.created Data: {"orderId":"ORD-001","userId":"user123","items":["Product A","Product B"],"total":99.99,"priority":"medium","eventId":"evt_1763205338377_dxmo0mpbf"}
+[2025-11-15T11:15:38.378Z] [HIGH] [OrderNotificationCenter] Event: order.shipped Data: {"orderId":"ORD-001","userId":"user123","trackingNumber":"TRACK-123456","priority":"high","eventId":"evt_1763205338377_ym2e9g6fy"}
+[2025-11-15T11:15:38.378Z] [HIGH] [OrderNotificationCenter] Event: order.delivered Data: {"orderId":"ORD-001","userId":"user123","priority":"high","eventId":"evt_1763205338378_ta82n5xu5"}
+[2025-11-15T11:15:38.379Z] [HIGH] [SystemNotificationCenter] Event: system.warning Data: {"message":"High memory usage detected","memoryUsage":"85%","threshold":"80%","priority":"high","eventId":"evt_1763205338379_b0yvxxm7y"}
+[2025-11-15T11:15:38.380Z] [CRITICAL] [SystemNotificationCenter] Event: system.error Data: {"message":"Database connection failed","database":"primary","error":"Connection timeout","priority":"critical","eventId":"evt_1763205338380_gr0ktt1nq"}
+[2025-11-15T11:15:38.381Z] [LOW] [UserNotificationCenter] Event: user.profile.updated Data: {"userId":"user123","changes":{"field":"phone","oldValue":"+1111111111","newValue":"+1234567890"},"priority":"low","eventId":"evt_1763205338380_vkfaii2j3"}
+[2025-11-15T11:15:38.402Z] [LOW] [UserNotificationCenter] Event: user.logout Data: {"userId":"user123","priority":"low","eventId":"evt_1763205338402_i87if04tl"}
+[2025-11-15T11:15:57.019Z] [MEDIUM] [UserNotificationCenter] Event: user.registered Data: {"userId":"user123","username":"john_doe","email":"john@example.com","priority":"medium","eventId":"evt_1763205357018_z3o1jsbla"}
+[2025-11-15T11:15:57.020Z] [LOW] [UserNotificationCenter] Event: user.login Data: {"userId":"user123","location":"New York, USA","device":"iPhone 14","ipAddress":"192.168.1.1","priority":"low","eventId":"evt_1763205357020_c536oul2x"}
+[2025-11-15T11:15:57.021Z] [HIGH] [UserNotificationCenter] Event: user.password.changed Data: {"userId":"user123","priority":"high","eventId":"evt_1763205357021_d1s8oql82"}
+[2025-11-15T11:15:57.022Z] [MEDIUM] [OrderNotificationCenter] Event: order.created Data: {"orderId":"ORD-001","userId":"user123","items":["Product A","Product B"],"total":99.99,"priority":"medium","eventId":"evt_1763205357022_h371c6vhb"}
+[2025-11-15T11:15:57.022Z] [HIGH] [OrderNotificationCenter] Event: order.shipped Data: {"orderId":"ORD-001","userId":"user123","trackingNumber":"TRACK-123456","priority":"high","eventId":"evt_1763205357022_rm7u92yh0"}
+[2025-11-15T11:15:57.023Z] [HIGH] [OrderNotificationCenter] Event: order.delivered Data: {"orderId":"ORD-001","userId":"user123","priority":"high","eventId":"evt_1763205357023_fqb9k5ogw"}
+[2025-11-15T11:15:57.024Z] [HIGH] [SystemNotificationCenter] Event: system.warning Data: {"message":"High memory usage detected","memoryUsage":"85%","threshold":"80%","priority":"high","eventId":"evt_1763205357023_6hydhdnwy"}
+[2025-11-15T11:15:57.025Z] [CRITICAL] [SystemNotificationCenter] Event: system.error Data: {"message":"Database connection failed","database":"primary","error":"Connection timeout","priority":"critical","eventId":"evt_1763205357024_k33vjrey1"}
+[2025-11-15T11:15:57.026Z] [LOW] [UserNotificationCenter] Event: user.profile.updated Data: {"userId":"user123","changes":{"field":"phone","oldValue":"+1111111111","newValue":"+1234567890"},"priority":"low","eventId":"evt_1763205357025_8tviyz5vv"}
+[2025-11-15T11:15:57.030Z] [LOW] [UserNotificationCenter] Event: user.logout Data: {"userId":"user123","priority":"low","eventId":"evt_1763205357030_h96nd0o6f"}

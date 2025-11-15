@@ -1,0 +1,11 @@
+=== Notification Log Started at 2025-11-15T11:15:38.403Z ===
+[2025-11-15T11:15:38.404Z] [MEDIUM] [UserNotificationCenter] Event: user.registered Data: {"userId":"user456","username":"jane_smith","email":"jane@example.com","priority":"medium","eventId":"evt_1763205338403_10nhgf5ra"}
+[2025-11-15T11:15:38.404Z] [MEDIUM] [OrderNotificationCenter] Event: order.created Data: {"orderId":"ORD-002","userId":"user456","items":["Laptop","Mouse","Keyboard"],"total":1299.99,"priority":"medium","eventId":"evt_1763205338404_iiq9s57f7"}
+[2025-11-15T11:15:38.404Z] [MEDIUM] [OrderNotificationCenter] Event: order.confirmed Data: {"orderId":"ORD-002","userId":"user456","priority":"medium","eventId":"evt_1763205338404_ruwxuae5q"}
+[2025-11-15T11:15:38.405Z] [HIGH] [OrderNotificationCenter] Event: order.shipped Data: {"orderId":"ORD-002","userId":"user456","trackingNumber":"TRACK-789012","priority":"high","eventId":"evt_1763205338404_0bthbyo5x"}
+[2025-11-15T11:15:38.406Z] [HIGH] [OrderNotificationCenter] Event: order.delivered Data: {"orderId":"ORD-002","userId":"user456","priority":"high","eventId":"evt_1763205338405_lsgabw62p"}
+[2025-11-15T11:15:57.032Z] [MEDIUM] [UserNotificationCenter] Event: user.registered Data: {"userId":"user456","username":"jane_smith","email":"jane@example.com","priority":"medium","eventId":"evt_1763205357031_fahgah9e7"}
+[2025-11-15T11:15:57.032Z] [MEDIUM] [OrderNotificationCenter] Event: order.created Data: {"orderId":"ORD-002","userId":"user456","items":["Laptop","Mouse","Keyboard"],"total":1299.99,"priority":"medium","eventId":"evt_1763205357032_8b3efhfm9"}
+[2025-11-15T11:15:57.032Z] [MEDIUM] [OrderNotificationCenter] Event: order.confirmed Data: {"orderId":"ORD-002","userId":"user456","priority":"medium","eventId":"evt_1763205357032_zz448j9q3"}
+[2025-11-15T11:15:57.032Z] [HIGH] [OrderNotificationCenter] Event: order.shipped Data: {"orderId":"ORD-002","userId":"user456","trackingNumber":"TRACK-789012","priority":"high","eventId":"evt_1763205357032_r9nc3usq9"}
+[2025-11-15T11:15:57.034Z] [HIGH] [OrderNotificationCenter] Event: order.delivered Data: {"orderId":"ORD-002","userId":"user456","priority":"high","eventId":"evt_1763205357033_qn30tmdtp"}
